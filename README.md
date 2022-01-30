@@ -1,2 +1,3 @@
 # odin-recipes
-I creat first project in Odin. 
+On this website you will find the best recipes for the cookies!
+
