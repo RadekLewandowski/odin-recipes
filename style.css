@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    background-color: #f8f9d2;
+    background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Comforter', cursive;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+.container {
+    margin: 150px auto ;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    font-size: 32px;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 50px;
+}

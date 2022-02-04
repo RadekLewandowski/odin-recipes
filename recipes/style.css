@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    background-color: #f8f9d2;
+    background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+    background-repeat: no-repeat;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ h1 {
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    display: block;
+    margin: 50px 300px
+}
+
